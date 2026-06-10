@@ -387,7 +387,7 @@ Status | Courses | Duration | Effort | Prerequisites
 ### Advanced Information Security
 
 Status | Courses | Duration | Effort | Prerequisites
-:-- | :--: || :--: | :--: | :--:
+:-- | :--: | :--: | :--: | :--:
 🚫 | [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies
 🚫 | [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | -
 🚫 | [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security
