@@ -107,7 +107,7 @@ just remember that you can't purchase success!
 
 ---
 
-## Prerequisites
+## [x] Prerequisites
 
 - [Core CS](#core-cs) assumes the student has already taken [high school math](https://ossu.dev/precollege-math), including algebra, geometry, and pre-calculus.
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
